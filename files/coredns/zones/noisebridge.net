@@ -158,7 +158,7 @@ zp                     IN CNAME zeppelin
 ; requested by patrick 2015-02-02
 ; updated w/ other CNAMES 2016-02-13
 ratchet		IN	CNAME	ratchet.patrickod.com.
-donate          IN      CNAME   ratchet
+donate		IN	CNAME	m5.noisebridge.net.
 library		IN	CNAME	ratchet
 
 ; mailgun (patrickod 2015-07-24)
